@@ -2,7 +2,7 @@
 
 I'm a Embedded AI Engineer 🚀 from India, currently working in 💼[Bosch](https://www.bosch.com/). Beside's programming, I enjoy trekking and playing dota and guitar.
 
-  <img height="250" width="250" align="right" alt="GIF" src="https://media1.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" />
+  <img  align="right" alt="GIF" src="https://media1.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" />
   
 **Talking about Personal Stuffs:**
 
@@ -11,6 +11,13 @@ I'm a Embedded AI Engineer 🚀 from India, currently working in 💼[Bosch](htt
 - 👯 I’m looking to collaborate on any research on Embedded computer vision Domains;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: mailmesathish.m@gmail.com;
+
+
+
+
+
+
+
 
 **Languages and Tools:**
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>

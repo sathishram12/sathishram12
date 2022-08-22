@@ -17,7 +17,7 @@ I'm a Embedded AI Engineer 🚀 from India, currently working in 💼[Bosch](htt
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 ```text
 Numpy                          ██████████████░░░░░░░░░░░   52.67% 
@@ -26,14 +26,11 @@ Tensorflow                     ██░░░░░░░░░░░░░░�
 Pandas                         ██░░░░░░░░░░░░░░░░░░░░░░░   8.33%
 ```
 
-[![Sathish's github stats](https://github-readme-stats.vercel.app/api?username=sathishram12)](https://github.com/AnbuLenin/github-readme-stats)
+[![Sathish's github stats](https://github-readme-stats.vercel.app/api?username=sathishram12)](https://github.com/sathishram12/github-readme-stats)
 
 **Personal Links:**
 <br/>
-
 <a href="https://www.linkedin.com/in/satzramembd">
   <img align="left" alt="Sathish Ram's | LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-
-
 <br /> 

@@ -26,12 +26,12 @@ Tensorflow                     ██░░░░░░░░░░░░░░�
 Pandas                         ██░░░░░░░░░░░░░░░░░░░░░░░   8.33%
 ```
 
-[![Sathish's github stats](https://github-readme-stats.vercel.app/api?username=AnbuLenin)](https://github.com/AnbuLenin/github-readme-stats)
+[![Sathish's github stats](https://github-readme-stats.vercel.app/api?username=sathishram12)](https://github.com/AnbuLenin/github-readme-stats)
 
 **Personal Links:**
 <br/>
 
-<a href="https://www.linkedin.com/in/sathishram12/">
+<a href="https://www.linkedin.com/in/satzramembd">
   <img align="left" alt="Sathish Ram's | LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 

@@ -2,7 +2,7 @@
 
 I'm a Embedded AI Engineer 🚀 from India, currently working in 💼[Bosch](https://www.bosch.com/). Beside's programming, I enjoy trekking and playing dota and guitar.
 
-  <img height="600" width="600" align="right" alt="GIF" src="https://media1.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" />
+  <img height="300" width="600" align="right" alt="GIF" src="https://media1.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" />
   
 **Talking about Personal Stuffs:**
 

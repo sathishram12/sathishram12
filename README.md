@@ -6,7 +6,7 @@ I'm a Embedded AI Engineer 🚀 from India, currently working in 💼[Bosch](htt
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on [digital contectivity solutions](https://www.bosch-engineering.com/portfolio/digital-solutions/remote-vehicle-access/) for Automotive;
+- 👨🏽‍💻 I’m currently working on integrating computer vision models to embedded cameras;
 - 🌱 I’m currently learning Computer Vision;
 - 👯 I’m looking to collaborate on any research on Embedded computer vision Domains;
 - 💬 Ask me about anything, I am happy to help;

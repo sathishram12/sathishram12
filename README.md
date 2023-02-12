@@ -1,6 +1,6 @@
 ### Hey 👋🏽, I'm Sathish Ram
 
-I'm a Embedded AI Engineer 🚀 from India, currently working in 💼[Bosch](https://www.bosch.com/). Beside's programming, I enjoy trekking and playing dota and guitar.
+I'm a Embedded AI Engineer 🚀 from India, currently working in 💼[E-consystems](https://www.e-consystems.com). Beside's programming, I enjoy trekking and playing dota and guitar.
 
   <img  height="200" align="right" alt="GIF" src="https://media1.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" />
   

@@ -7,7 +7,7 @@ I'm a Embedded AI Engineer 🚀 from India, currently working in 💼[E-consyste
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on integrating computer vision models to embedded vision cameras;
-- 🌱 I’m currently learning 3D Computer Vision and slam;
+- 🌱 I’m currently learning Multi view Geometry focusing on VSLAM;
 - 👯 I’m looking to collaborate on any research on Embedded computer vision Domains;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: mailmesathish.m@gmail.com;

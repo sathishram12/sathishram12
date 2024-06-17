@@ -6,8 +6,8 @@ I'm a Embedded AI Engineer 🚀 from India, currently working in 💼[E-consyste
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on integrating computer vision models to embedded vision cameras;
-- 🌱 I’m currently learning Multi view Geometry focusing on VSLAM;
+- 👨🏽‍💻 I’m currently working on developing and computer vision foundation models (detection, tracking, pose estimation models) to embedded vision cameras;
+- 🌱 I’m currently learning Multi view Geometry focusing on VSLAM, stereo vision, BEV;
 - 👯 I’m looking to collaborate on any research on Embedded computer vision Domains;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: mailmesathish.m@gmail.com;
@@ -22,16 +22,9 @@ I'm a Embedded AI Engineer 🚀 from India, currently working in 💼[E-consyste
 **Languages and Tools:**
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-```text
-Numpy                          ██████████████░░░░░░░░░░░   52.67% 
-scikit learn                   ███████░░░░░░░░░░░░░░░░░░   16.67% 
-Tensorflow                     ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
-Pandas                         ██░░░░░░░░░░░░░░░░░░░░░░░   8.33%
-```
 
 [![Sathish's github stats](https://github-readme-stats.vercel.app/api?username=sathishram12)](https://github.com/sathishram12/github-readme-stats)
 

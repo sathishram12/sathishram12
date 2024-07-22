@@ -8,7 +8,8 @@ I'm a Embedded AI Engineer 🚀 from India, currently working in 💼[E-consyste
 
 - 👨🏽‍💻 I’m currently working on developing and computer vision foundation models (detection, tracking, pose estimation models) to embedded vision cameras;
 - 🌱 I’m currently learning Multi view Geometry focusing on VSLAM, stereo vision, BEV;
-- 👯 I’m looking to collaborate on any research on Embedded computer vision Domains;
+- 🌱 Recently Quantum Technology sparkled my inner physics kid, Learning more about Quantum Techology
+- 👯 I’m looking to collaborate on any research on Embedded computer vision Domains and Quantum Domains;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: mailmesathish.m@gmail.com;
 
